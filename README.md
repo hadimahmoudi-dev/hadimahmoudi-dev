@@ -16,7 +16,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfawhocodes)
 [![Personal Instagram](https://img.shields.io/badge/Personal%20Instagram-E7405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creative_alf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alfaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadi-mahmoudi/)
 
 ## Experience
 
