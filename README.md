@@ -3,7 +3,7 @@
 ### Full-Stack Developer · Mobile, Web & Backend
 
 I build complete products: mobile apps, web frontends and the APIs behind them.
-4+ years of professional experience, starting in mobile development with Flutter and
+6+ years of professional experience, starting in mobile development with Flutter and
 growing into full-stack work with React, Laravel and Python.
 
 - 📱 **Mobile:** cross-platform apps with Flutter and Dart, from UI to release
